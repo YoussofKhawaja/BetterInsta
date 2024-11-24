@@ -1,2 +1,3 @@
-# BetterInsta
- BetterInsta
+# insta_flutter
+
+A new Flutter project.
